@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SipSipi
+- 👀 I’m interested in life
+- 🌱 I’m currently learning python
